@@ -1,4 +1,4 @@
-import random, os
+import random, os, re
 from string import *
 qedBQUMJ = "#qedBQUMJ#"
 aIgRMmVDHlBS = "#aIgRMmVDHlBS#"
@@ -17,7 +17,6 @@ while CrMLiKGQfzEFvx <= uSAyplDIPBcTE:
     CrMLiKGQfzEFvx = CrMLiKGQfzEFvx + 1
 #aIgRMmVDHlBS##qedBQUMJ##IwxXGPFAbqWd#
 IwxXGPFAbqWd = "#IwxXGPFAbqWd#" 
-import re
 IwxXGPFAbqWd
 def eDyamBTq(eInvGtzHdlTi, wordDic):
 	return re.sub('|'.join(re.escape(key) for key in eInvGtzHdlTi.keys()), lambda k: eInvGtzHdlTi[k.group(0)], wordDic)
