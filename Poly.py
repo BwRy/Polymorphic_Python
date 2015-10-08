@@ -1,26 +1,28 @@
-import random, os, re
+pxijdDUSruonhvAFNJ = 0
+LXbAFqUsyZkCi = pxijdDUSruonhvAFNJ + 1
+TjcJRmAVYkWuiIDXL = __file__
+ByTzSsUXnbAI = int(pxijdDUSruonhvAFNJ)
+aAnDvVJfriuYZW = open(TjcJRmAVYkWuiIDXL, 'r')
+tUiKOVsSdnWBQw = ['GimPEYnI', 'KLQBfoEMZFSC', 'RkrMuCJeBFfnxcXSOU', 'yXNoZkiVnUhIezWE', 'ILJDhbPr', 'pxijdDUSruonhvAFNJ', 'TjcJRmAVYkWuiIDXL', 'LXbAFqUsyZkCi', 'tUiKOVsSdnWBQw', 'ByTzSsUXnbAI', 'IEHBTVMmkLvnsP', 'rbCmTQMwIZSixYJajz', 'kQzYyOFBmaxd', 'gxTYQbrZfCNR', 'aAnDvVJfriuYZW', 'bVMOmdlP', 'nUIsKTVYPSca', 'CdTFSHVieGqo', 'nlQTKPSdODBLx', 'pJoIWNiBTrSdylGRPqY', 'MySTKbvjWne', 'MYCODbqmryt', 'eFdgYEKNuyTjSA', 'DucdqTNhvMskG',]
+nUIsKTVYPSca = len(tUiKOVsSdnWBQw)
+nUIsKTVYPSca = nUIsKTVYPSca - int(LXbAFqUsyZkCi)
+CdTFSHVieGqo = []
 from string import *
-vUAEHdR = 0
-xyctJWXlpaU = 1
-FYlzxcoOtEkfB = __file__
-UOIDxSX = int(vUAEHdR)
-PFGyaCfMJUcXbRAs = open(FYlzxcoOtEkfB, 'r')
-jTZhtESgCYWxP = ['xsOrcXuLKCgYIo', 'TRZgwbMQHsyC', 'vUAEHdR', 'FYlzxcoOtEkfB', 'xyctJWXlpaU', 'jTZhtESgCYWxP', 'UOIDxSX', 'GUDYjFiHIAqKOWnpTx', 'dOQqyeiAYglCHGx', 'QBtxGNVwSTaOXAyuoj', 'rfjZnNhmOpw', 'PFGyaCfMJUcXbRAs', 'WzHtNiVPSvBDyXoZACJ', 'RmkENnUhGS', 'QegZEMyDCJAUcnYv', 'OotWaPrhCjmzcAsu', 'IiltecXvkZfQOYr', 'PHzuNfVLEGCvMisyk', 'yQiYgeLBSrlpjZqv', 'vyHOXRntNJBxdjV', 'DucdqTNhvMskG',]
-RmkENnUhGS = len(jTZhtESgCYWxP)
-RmkENnUhGS = RmkENnUhGS - int(xyctJWXlpaU)
-QegZEMyDCJAUcnYv = []
-while UOIDxSX <= RmkENnUhGS:
-    GUDYjFiHIAqKOWnpTx = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
-    rfjZnNhmOpw = random.randrange(7, 20)
-    dOQqyeiAYglCHGx = rfjZnNhmOpw
-    QBtxGNVwSTaOXAyuoj = "".join(random.sample(GUDYjFiHIAqKOWnpTx, dOQqyeiAYglCHGx))
-    QegZEMyDCJAUcnYv.append(QBtxGNVwSTaOXAyuoj)
-    UOIDxSX = UOIDxSX + int(xyctJWXlpaU)
-def IiltecXvkZfQOYr(DucdqTNhvMskG, TRZgwbMQHsyC):
-	return re.sub('|'.join(re.escape(key) for key in list(DucdqTNhvMskG.keys())), lambda k: DucdqTNhvMskG[k.group(int(vUAEHdR))], TRZgwbMQHsyC)
-PHzuNfVLEGCvMisyk = PFGyaCfMJUcXbRAs.read()
-TRZgwbMQHsyC = {jTZhtESgCYWxP[0]: QegZEMyDCJAUcnYv[0], jTZhtESgCYWxP[1]: QegZEMyDCJAUcnYv[1], jTZhtESgCYWxP[2]: QegZEMyDCJAUcnYv[2], jTZhtESgCYWxP[3]: QegZEMyDCJAUcnYv[3], jTZhtESgCYWxP[4]: QegZEMyDCJAUcnYv[4], jTZhtESgCYWxP[5]: QegZEMyDCJAUcnYv[5], jTZhtESgCYWxP[6]: QegZEMyDCJAUcnYv[6], jTZhtESgCYWxP[7]: QegZEMyDCJAUcnYv[7], jTZhtESgCYWxP[8]: QegZEMyDCJAUcnYv[8], jTZhtESgCYWxP[9]: QegZEMyDCJAUcnYv[9], jTZhtESgCYWxP[10]: QegZEMyDCJAUcnYv[10], jTZhtESgCYWxP[11]: QegZEMyDCJAUcnYv[11], jTZhtESgCYWxP[12]: QegZEMyDCJAUcnYv[12], jTZhtESgCYWxP[13]: QegZEMyDCJAUcnYv[13], jTZhtESgCYWxP[14]: QegZEMyDCJAUcnYv[14], jTZhtESgCYWxP[15]: QegZEMyDCJAUcnYv[15], jTZhtESgCYWxP[16]: QegZEMyDCJAUcnYv[16], jTZhtESgCYWxP[17]: QegZEMyDCJAUcnYv[17], jTZhtESgCYWxP[18]: QegZEMyDCJAUcnYv[18], jTZhtESgCYWxP[19]: QegZEMyDCJAUcnYv[19]}
-vyHOXRntNJBxdjV = IiltecXvkZfQOYr(TRZgwbMQHsyC, PHzuNfVLEGCvMisyk)
-yQiYgeLBSrlpjZqv = open(FYlzxcoOtEkfB, 'w+')
-yQiYgeLBSrlpjZqv.write(vyHOXRntNJBxdjV)
-
+import string as GimPEYnI
+while ByTzSsUXnbAI <= nUIsKTVYPSca:
+    IEHBTVMmkLvnsP = GimPEYnI.ascii_letters
+    import random as KLQBfoEMZFSC
+    gxTYQbrZfCNR = KLQBfoEMZFSC.randrange(7, 20)
+    rbCmTQMwIZSixYJajz = gxTYQbrZfCNR
+    kQzYyOFBmaxd = "".join(KLQBfoEMZFSC.sample(IEHBTVMmkLvnsP, rbCmTQMwIZSixYJajz))
+    CdTFSHVieGqo.append(kQzYyOFBmaxd)
+    ByTzSsUXnbAI = ByTzSsUXnbAI + int(LXbAFqUsyZkCi)
+def pJoIWNiBTrSdylGRPqY(DucdqTNhvMskG, ILJDhbPr):
+	import re as RkrMuCJeBFfnxcXSOU
+	return RkrMuCJeBFfnxcXSOU.sub('|'.join(RkrMuCJeBFfnxcXSOU.escape(key) for key in list(DucdqTNhvMskG.keys())), lambda k: DucdqTNhvMskG[k.group(int(pxijdDUSruonhvAFNJ))], ILJDhbPr)
+import os
+MySTKbvjWne = aAnDvVJfriuYZW.read()
+ILJDhbPr = {tUiKOVsSdnWBQw[0]: CdTFSHVieGqo[0], tUiKOVsSdnWBQw[1]: CdTFSHVieGqo[1], tUiKOVsSdnWBQw[2]: CdTFSHVieGqo[2], tUiKOVsSdnWBQw[3]: CdTFSHVieGqo[3], tUiKOVsSdnWBQw[4]: CdTFSHVieGqo[4], tUiKOVsSdnWBQw[5]: CdTFSHVieGqo[5], tUiKOVsSdnWBQw[6]: CdTFSHVieGqo[6], tUiKOVsSdnWBQw[7]: CdTFSHVieGqo[7], tUiKOVsSdnWBQw[8]: CdTFSHVieGqo[8], tUiKOVsSdnWBQw[9]: CdTFSHVieGqo[9], tUiKOVsSdnWBQw[10]: CdTFSHVieGqo[10], tUiKOVsSdnWBQw[11]: CdTFSHVieGqo[11], tUiKOVsSdnWBQw[12]: CdTFSHVieGqo[12], tUiKOVsSdnWBQw[13]: CdTFSHVieGqo[13], tUiKOVsSdnWBQw[14]: CdTFSHVieGqo[14], tUiKOVsSdnWBQw[15]: CdTFSHVieGqo[15], tUiKOVsSdnWBQw[16]: CdTFSHVieGqo[16], tUiKOVsSdnWBQw[17]: CdTFSHVieGqo[17], tUiKOVsSdnWBQw[18]: CdTFSHVieGqo[18], tUiKOVsSdnWBQw[19]: CdTFSHVieGqo[19]}
+eFdgYEKNuyTjSA = pJoIWNiBTrSdylGRPqY(ILJDhbPr, MySTKbvjWne)
+MYCODbqmryt = open(TjcJRmAVYkWuiIDXL, 'w+')
+MYCODbqmryt.write(eFdgYEKNuyTjSA)
